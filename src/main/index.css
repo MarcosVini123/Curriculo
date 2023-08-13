@@ -1,0 +1,34 @@
+.geral{
+display: flex;
+}
+
+.geral img{
+max-width: 350px;
+width: 100%;
+height:300px;
+padding: 10px 0px 60px 25%;
+}
+
+.pessoal{
+width:50%;
+background-color: #808080;
+color: white;
+}
+
+.curriculo{
+width:50%;
+background-color: #A9A9A9;
+color: black;
+}
+
+.desc{
+font-size: 20px;
+font-family: arial;
+padding: 0px 180px;
+}
+
+.info{
+font-size: 20px;
+font-family: arial;
+padding: 0px 150px;
+}
